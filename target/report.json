@@ -1,0 +1,258 @@
+[
+  {
+    "line": 4,
+    "elements": [
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 28491000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User Launches the application",
+            "match": {
+              "location": "stepdifinition.stepdifinitionclass.user_Launches_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2443000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User mouseover Study material dropdown",
+            "match": {
+              "location": "stepdifinition.stepdifinitionclass.user_mouseover_Study_material_dropdown()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-11-25T12:06:31.120Z",
+        "line": 9,
+        "name": "User should Access appropriate NEET content in Study Materials Dropdown",
+        "description": "",
+        "id": "course-management;user-should-access-appropriate-neet-content-in-study-materials-dropdown",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8494000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User selects NEET from dropdown",
+            "match": {
+              "location": "stepdifinition.stepdifinitionclass.user_selects_NEET_from_dropdown()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5374000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User validates the NEET content",
+            "match": {
+              "location": "stepdifinition.stepdifinitionclass.user_validates_the_NEET_content()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "course"
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 49098000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User Launches the application",
+            "match": {
+              "location": "stepdifinition.stepdifinitionclass.user_Launches_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5662000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User mouseover Study material dropdown",
+            "match": {
+              "location": "stepdifinition.stepdifinitionclass.user_mouseover_Study_material_dropdown()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-11-25T12:07:16.112Z",
+        "line": 15,
+        "name": "User should Access appropriate JEE content in Study Materials Dropdown",
+        "description": "",
+        "id": "course-management;user-should-access-appropriate-jee-content-in-study-materials-dropdown",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6777000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User selects JEE from dropdown",
+            "match": {
+              "location": "stepdifinition.stepdifinitionclass.user_selects_JEE_from_dropdown()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 598000000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User validates the JEE content",
+            "match": {
+              "location": "stepdifinition.stepdifinitionclass.user_validates_the_JEE_content()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "course"
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 26799000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User Launches the application",
+            "match": {
+              "location": "stepdifinition.stepdifinitionclass.user_Launches_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2092000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User mouseover Study material dropdown",
+            "match": {
+              "location": "stepdifinition.stepdifinitionclass.user_mouseover_Study_material_dropdown()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-11-25T12:08:18.324Z",
+        "line": 21,
+        "name": "User should Access appropriate Commerce content in Study Materials Dropdown",
+        "description": "",
+        "id": "course-management;user-should-access-appropriate-commerce-content-in-study-materials-dropdown",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1535000000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "User selects commerce from dropdown",
+            "match": {
+              "location": "stepdifinition.stepdifinitionclass.user_selects_commerce_from_dropdown()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3597000000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "User validates the commerce content",
+            "match": {
+              "location": "stepdifinition.stepdifinitionclass.user_validates_the_commerce_content()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "course"
+          }
+        ]
+      }
+    ],
+    "name": "Course Management",
+    "description": "",
+    "id": "course-management",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/course.feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 2,
+          "column": 1
+        }
+      },
+      {
+        "name": "course",
+        "type": "Tag",
+        "location": {
+          "line": 2,
+          "column": 6
+        }
+      }
+    ]
+  }
+]
